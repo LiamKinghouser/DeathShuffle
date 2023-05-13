@@ -1,0 +1,8 @@
+name: DeathShuffle
+version: '${project.version}'
+main: juvoo.deathshuffle.DeathShuffle
+api-version: 1.17
+authors: [ Juvoo ]
+
+commands:
+  deathshuffle:
